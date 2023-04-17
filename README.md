@@ -14,7 +14,7 @@ Jalankan script DDL tersebut pada DBMS MySQL
 
 1. Script Tabel mahasiswa
 
-![gambar](Basis Data/Gmbr.png)
+![gambar](Basis Data/am.PNG)
 
 OUTPUT
 
