@@ -14,47 +14,49 @@ Jalankan script DDL tersebut pada DBMS MySQL
 
 1. Script Tabel mahasiswa
 
-![Gmbr1](https://user-images.githubusercontent.com/115520666/232367782-4678c3d9-aeeb-4092-90bc-b940d20c58b2.png)
+![am](https://user-images.githubusercontent.com/115520666/232470961-6c109f44-d69c-41c2-bba5-4be4696dd081.png)
+
 
 
 OUTPUT
 
-![gambar](gambar/Gmbr1.png)
+![Gmbr1](https://user-images.githubusercontent.com/115520666/232471138-2136f003-8874-492d-a7dd-0f048e5f68bd.png)
+
 
 2. Script Tabel dosen
 
-![gambar](gambar/br2.png)
+![Gmbr2](https://user-images.githubusercontent.com/115520666/232471229-f0fdeffe-08d2-4851-adc4-3c7277529b5a.png)
 
 OUTPUT
 
-![gambar](gambar/br3.png)
+![Gmbr3](https://user-images.githubusercontent.com/115520666/232471405-e40606c9-2bdd-4cba-a4b7-4633e792d7c6.png)
 
 3. Script Tabel matakuliah
 
-![gambar](gambar/br4.png)
+![Gmbr4](https://user-images.githubusercontent.com/115520666/232471445-0c8d476b-a2a1-4796-97d4-c1e143a336c8.png)
 
 OUTPUT
 
-![gambar](gambar/br5.png)
+![Gmbr5](https://user-images.githubusercontent.com/115520666/232471555-54c7ccae-38a0-46ce-a079-7f7a774f5c05.png)
 
 4. Script Tabel JadwalMengajar
 
-![gambar](gambar/br6.png)
+![Gmbr6](https://user-images.githubusercontent.com/115520666/232471615-0b660958-a3a3-4e03-aa4c-970caa299e9f.png)
 
 OUTPUT
 
-![gambar](gambar/br7.png)
+![Gmbr7](https://user-images.githubusercontent.com/115520666/232471701-6307689d-5d99-42bc-a713-c251f7e7044a.png)
 
 6. Script Tabel KRSmahasiswa
 
-![gambar](gambar/br8.png)
+![Gmbr8](https://user-images.githubusercontent.com/115520666/232471794-ad9f9f8a-686c-4d1c-8a9f-ee40900ff3af.png)
 
 OUTPUT
 
-![gambar](gambar/br9.png)
+![Gmbr9](https://user-images.githubusercontent.com/115520666/232471985-ed6c716d-fdf6-417e-be31-8294a25eab3f.png)
 
 DDL Script
-![gambar](gambar/br10.png)
+![Gmbr10](https://user-images.githubusercontent.com/115520666/232472128-de205efa-36af-4ea1-ba76-14840f4a3d6d.png)
 
 
 
@@ -73,34 +75,34 @@ DDL Script
 ```
 
 1. Isi data pada table tersebut sebanyak minimal 5 record data.
-![gambar](gambar/br11.png)
+![Gmbr11](https://user-images.githubusercontent.com/115520666/232472257-611c02a1-957f-423f-b40f-0febb5a0f140.png)
 
 2. Tampilkan semua isi/record tabel!
-![gambar](gambar/br12.png)
+![Gmbr12](https://user-images.githubusercontent.com/115520666/232472319-de967634-e70c-4889-b14d-33dda7406ea6.png)
 
 3. Ubah data tanggal lahir mahasiswa yang bernama Ari menjadi: 1979-08-31!
-![gambar](gambar/br13.png)
+![Gmbr13](https://user-images.githubusercontent.com/115520666/232472372-fff97470-8e43-4bc6-b236-232bb3d1c64c.png)
 
 4. Tampilkan satu baris / record data yang telah diubah tadi yaitu record dengan nama Ari saja!
-![gambar](gambar/br14.png)
+![Gmbr14](https://user-images.githubusercontent.com/115520666/232472502-3fe5cc43-368c-4d12-947e-83a65fc0f08b.png)
 
 5. Hapus Mahasiswa yang bernama Dina!
-![gambar](gambar/br15.png)
+![Gmbr15](https://user-images.githubusercontent.com/115520666/232472720-4df5d650-b3b9-4af4-9677-b2838df752a4.png)
 
 6. Tampilkan record atau data yang tanggal kelahirannya lebih dari atau sama dengan 1996-1-2!
-![gambar](gambar/br16.png)
+![Gmbr16](https://user-images.githubusercontent.com/115520666/232472769-7bf24d28-31ff-462e-9724-e2aff13ef801.png)
 
 7. Tampilkan semua Mahasiswa yang berasal dari Bekasi dan berjenis kelamin perempuan!
-![gambar](gambar/br17.png)
+![Gmbr17](https://user-images.githubusercontent.com/115520666/232472804-88e08e55-08b9-4a37-af39-44b31ea5c8f7.png)
 
 8. Tampilkan semua Mahasiswa yang berasal dari Bekasi dengan kelamin laki-laki atau Mahasiswa yang berumur lebih dari 22 tahun dengan kelamin wanita!
-![gambar](gambar/br18.png)
+![Gmbr18](https://user-images.githubusercontent.com/115520666/232472851-ef084835-7559-4151-be00-8ece0e79d133.png)
 
 9. Tampilkan data nama dan alamat mahasiswa saja dari tabel tersebut
-![gambar](gambar/br19.png)
+![Gmbr19](https://user-images.githubusercontent.com/115520666/232472879-4bad5280-fbca-44bf-96bd-227da33cee5e.png)
 
 10. Tampilkan data mahasiswa terurut berdasarkan nama
-![gambar](gambar/br20.png)
+![Gmbr20](https://user-images.githubusercontent.com/115520666/232472922-d61bea05-dc5f-4f1c-a228-4a74cc90f48f.png)
 
 
 Evaluasi dan Pertanyaan
